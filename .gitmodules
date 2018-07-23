@@ -1,3 +1,6 @@
 [submodule "springboot-curd"]
 	path = springboot-curd
 	url = https://github.com/wrl-ada/springboot-curd.git
+[submodule "springboot-http"]
+	path = springboot-http
+	url = https://github.com/wrl-ada/springboot-http.git
